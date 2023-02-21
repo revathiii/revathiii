@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter !<br>👯 I’m looking to collaborate on Full stack projects.<br>🌱 I’m currently learning Full stack development.<br>💬 Ask me about Technologies.<br>
+🔭 I’m currently working on MERN stack !<br>👯 I’m looking to collaborate on Full stack projects.<br>🌱 I’m currently learning Full stack development.<br>💬 Ask me about Technologies.<br>
 
 
 ## 🌐 Socials:
